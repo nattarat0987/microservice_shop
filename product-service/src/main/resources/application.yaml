@@ -1,0 +1,9 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:2277
+      database: product_service_arm
+
+server:
+  port: 8000
